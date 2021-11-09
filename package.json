@@ -1,0 +1,17 @@
+{
+  "name": "gimdiscordbot",
+  "version": "1.0.0",
+  "description": "bot for group ironmen discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deww",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.0.0",
+    "os": "^0.1.2"
+  },
+  "type": "module"
+}
